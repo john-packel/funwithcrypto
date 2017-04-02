@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/john-packel/funwithcrypto.git",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "path": "^0.12.7"
   },
   "scripts": {
-  "start": "index.js"
+    "start": "index.js"
   }
 }
