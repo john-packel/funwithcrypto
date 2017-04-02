@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/john-packel/funwithcrypto.git",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.15.2"
   }
 }
