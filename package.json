@@ -1,0 +1,18 @@
+{
+  "name": "Cryptofun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-packel/funwithcrypto.git"
+  },
+  "author": "John Packel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-packel/funwithcrypto.git"
+  },
+  "homepage": "https://github.com/john-packel/funwithcrypto.git",
+  "dependencies": {
+    "express": "^4.15.2",
+  }
