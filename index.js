@@ -9,7 +9,7 @@ var port = process.env.PORT || 8888;
 
 app.get('/', function(req, res) {
   // res.sendfile('client/Coindesk parody.html');
-  res.sendfile('./index.html');
+  res.sendfile('./client/index.html');
 })
 
 app.listen(port, function() {
