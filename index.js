@@ -8,7 +8,8 @@ var port = process.env.PORT || 8888;
 // app.use(express.static('client'));
 
 app.get('/', function(req, res) {
-  res.sendfile('client/Coindesk parody.html');
+  // res.sendfile('client/Coindesk parody.html');
+  res.sendfile('./client/index.html');
 })
 
 app.listen(port, function() {
