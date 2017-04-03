@@ -19,6 +19,7 @@
   "homepage": "https://github.com/john-packel/funwithcrypto.git",
   "dependencies": {
     "express": "^4.15.2",
+    "force-ssl-heroku": "^1.0.2",
     "path": "^0.12.7"
   },
   "scripts": {
